@@ -1,39 +1,43 @@
-# Floyd Joshua Luna
+# 👋 Hi, I'm Floyd Joshua Luna
 
 Welcome to my GitHub profile! 👋
 
 ## About Me
 
-Hi! I'm Floyd Joshua Luna, a passionate developer with interests in software development, open-source projects, and continuous learning. I love building impactful projects and collaborating with the community.
+- 🎓 I’m a student currently learning coding, problem-solving, and building projects step by step.
+- 💻 Exploring different languages and tools to grow as a developer.
+- 🚀 My goal is to improve daily, contribute to projects, and eventually build something impactful.
+- 📫 How to reach me: [floydjoshua.luna@g.msuiit.edu.ph]
 
-- 🔭 Currently working on: [Your current project or focus]
-- 🌱 Learning: [Technologies or skills you're learning]
-- 👯 Open to collaborate on interesting projects
-- 💬 Ask me about: Programming, tech, open source, or anything fun!
-- 📫 How to reach me: [Your email or social links]
+## What I'm Learning  
 
+- Programming basics: C, Python, Java, JavaScript
+- Web development: HTML, CSS, React
+- Problem-solving: Practicing algorithms and data structures
+- Exploring GitHub to collaborate and manage projects
+  
 ## Skills
 
-- Programming Languages: JavaScript, Python, Java, C++
-- Frameworks & Libraries: React, Node.js, Express, Django
-- Tools & Platforms: Git, Docker, AWS, Linux
-- Databases: MySQL, MongoDB
+- Programming Languages: C++, C, Phyton, Java (begginer level)
+- Frameworks & Libraries: React, Node.js
+- Tools & Platforms: Github, VSCode
+- Databases: MySQL
 
-## Projects
+## Goals
 
-Here are a few projects I've worked on:
-
-- [Project One](https://github.com/yourusername/project-one) - Brief description
-- [Project Two](https://github.com/yourusername/project-two) - Brief description
-- [Project Three](https://github.com/yourusername/project-three) - Brief description
+- Contribute to open-source projects
+- Build a personal website/portfolio
+- Improve in competitive programming
+- Never stop learning & sharing knowledge
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [X](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/floyd-joshua-luna-3a66092ab/)
+- [Facebook](https://web.facebook.com/copyright18.luna)
 - [Email](mailto:floydjoshua.luna@g.msuiit.edu.ph)
 
 ---
+### “Every expert was once a beginner. This is my journey in becoming better at coding — one commit at a time!”
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch.
 
