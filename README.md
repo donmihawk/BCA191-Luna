@@ -31,7 +31,7 @@ Here are a few projects I've worked on:
 
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 - [X](https://twitter.com/yourhandle)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:floydjoshua.luna@g.msuiit.edu.ph)
 
 ---
 
